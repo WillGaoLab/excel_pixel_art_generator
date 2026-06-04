@@ -68,33 +68,10 @@ http://127.0.0.1:8501
 
 ## Related
 
-- Project repository: https://github.com/PeidongGao/excel-pixel-art-generator
-- Personal website page: https://williampeidonggao.com/resources/excel-pixel-art-generator/
-
-## Knowledge Base: Journal Harvester SOP
-
-Journal Harvester SOP provides browser-based workflows for low-volume,
-user-initiated export of publicly visible bibliographic metadata from Cell,
-Nature, and Science.
-
-- Primary development repository: https://github.com/PeidongGao/auto_paper_get_CNS
-- WillGaoLab brand mirror: https://github.com/WillGaoLab/auto_paper_get_CNS
-- Website project page: https://williampeidonggao.com/resources/journal-harvester-sop/
-- Usage disclaimer: https://github.com/PeidongGao/auto_paper_get_CNS/blob/main/DISCLAIMER.md
-
-The project does not publish scraped CSV datasets, publisher PDFs, full-text
-articles, paywalled content, or copyrighted figures. Users are responsible for
-reviewing and complying with applicable publisher terms, institutional
-agreements, crawling policies, and law.
-
-This is a WillGaoLab project created and maintained by William (Peidong) Gao.
-It may be referenced, showcased, or documented through the independent
-WillGaoLab research brand and WilliamGaoWeb. It is not affiliated with,
-endorsed by, sponsored by, or officially associated with Cell Press, Elsevier,
-Springer Nature, AAAS, Crossref, or any publisher, organization, or service
-referenced in this repository. All referenced trademarks, journal titles,
-logos, and publisher names remain the property of their respective owners and
-are used solely for identification and descriptive purposes.
+- WillGaoLab project repository: https://github.com/WillGaoLab/excel_pixel_art_generator
+- Primary development repository: https://github.com/PeidongGao/excel-pixel-art-generator
+- WillGaoLab profile and project index: https://github.com/WillGaoLab/WillGaoLab
+- Project website page: https://williampeidonggao.com/resources/excel-pixel-art-generator/
 
 ### Attribution
 
