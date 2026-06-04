@@ -8,7 +8,7 @@ Excel Pixel Art Generator is a WillGaoLab product made by William (Peidong) Gao.
 
 Open the live app:
 
-https://willgaolab-dvy5xga3u2xexllw7lei82.streamlit.app/
+https://excelpixelartgenerator-8tq4k2vmpkxskubnxzrxeo.streamlit.app/
 
 Upload an image and independently generate:
 
